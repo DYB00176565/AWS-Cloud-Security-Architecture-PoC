@@ -58,7 +58,7 @@ These included NAT Gateway and some additional production security improvements.
 
 The full technical report, including architecture diagrams, configuration screenshots, testing and results, is available here:
 
-[View AWS Cloud PoC Report](report/AWS_Cloud_PoC_Report.pdf)
+[View AWS Cloud PoC Report](https://github.com/DYB00176565/AWS-Cloud-Security-Architecture-PoC/blob/main/AWS_Cloud_PoC_Report.pdf)
 
 ## Disclaimer
 
